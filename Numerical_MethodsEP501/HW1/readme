@@ -1,0 +1,6 @@
+five problems focusing on 
+1. forward elimination and substitution using gaussian elimination
+2. elimination for computing matrix inverses
+3. LU factorization for solving linear systems
+4. Iterative method of solving linear system using successive over realxation
+5. Using gaussian elimination to also compute the determinant
